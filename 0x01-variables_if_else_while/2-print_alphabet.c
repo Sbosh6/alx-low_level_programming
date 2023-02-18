@@ -1,13 +1,19 @@
 #include <stdio.h>
 /**
- * main - Main function
+ * main - prints alphabets in lower case
  *
- * Return - Always 0
+ * Return: Always 0
  */
 int main(void)
 {
-	for (i = 'a', i <= 'z', a++)
-	      putchar("i",  a);
-	putchar("ln")
-	return (0);		
+	char alphabet = 'a';
+
+	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
+	{
+		putchar(alphabet);
+		}
+	putchar('\n');
+	return (0);
 }
+
+
