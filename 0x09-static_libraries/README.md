@@ -1,1 +1,1 @@
-My first static library
+Static libraries project
