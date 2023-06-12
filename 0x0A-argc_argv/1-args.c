@@ -1,8 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 
-/*
- * main - Is the function to print the number
+/**
+ * main - the function that prints the number of arguments
  * of arguments passed.
  * @argc: is the nummber of arguments
  * @argv: is an array of strings

@@ -1,8 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 
-/*
- * main - prints the name of the program
+/**
+ * main - function that prints it's name
  * @argc: is the argument count
  * @argv: is the array of strings
  * Return: ends the function
