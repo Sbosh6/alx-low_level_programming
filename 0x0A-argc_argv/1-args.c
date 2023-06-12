@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /*
- * main - function that prints the number 
- * of arguments passed to the program
+ * main - Is the function to print the number
+ * of arguments passed.
  * @argc: is the nummber of arguments
  * @argv: is an array of strings
  * Return: returns zero to end the program
